@@ -1,6 +1,3 @@
-# Data-Analysis
-Data Analysis on netflix data
-
 # Netflix Data Analysis and Sentiment Analysis
 
 ## Overview
